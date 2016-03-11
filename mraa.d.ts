@@ -3,5 +3,6 @@
 // Definitions by: Snow Crab Software, LLC <https://github.com/snowcrab/>
 // Definitions: https://github.com/snowcrab/mraa-typescript
 
-export * from './src/common'
+export * from './src/common';
+export * from './src/aio';
 export * from './src/gpio';
