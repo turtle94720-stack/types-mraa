@@ -5,6 +5,7 @@ export const I2C_FAST: number;
 export const I2C_HIGH: number;
 
 export class I2c {
+    public constructor(bus: number);
     public constructor(bus: number, raw: boolean);
     public frequency(mode: number): number;
     public address(address: number): number;

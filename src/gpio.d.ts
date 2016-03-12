@@ -14,7 +14,8 @@ export const DIR_OUT_HIGH: number;
 export const DIR_OUT_LOW: number;
 
 export class Gpio {
-    public constructor(pin: number, owner?: boolean, raw?: boolean);
+    public constructor(pin: number);
+    public constructor(pin: number, owner: boolean, raw: boolean);
     public edge(mode: number): number;
     public isr(mode: number, func: () => void): number;
     public isrExit(): number;
