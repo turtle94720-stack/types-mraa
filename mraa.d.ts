@@ -7,6 +7,7 @@ export * from './src/common';
 export * from './src/aio';
 export * from './src/gpio';
 export * from './src/i2c';
+export * from './src/iio';
 export * from './src/pwm';
 export * from './src/spi';
 export * from './src/uart';
