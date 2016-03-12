@@ -213,3 +213,6 @@ ModelManifest.xml
 
 # OSX Artifacts
 .DS_STORE
+
+# Project Artifacts
+typings/
