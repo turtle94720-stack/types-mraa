@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true
+    },
+    "exclude": [
+        "typings/browser/*",
+        "typings/browser.d.ts"
+    ]
+}

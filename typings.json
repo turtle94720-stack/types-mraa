@@ -1,0 +1,7 @@
+{
+    "name": "mraa",
+    "main": "mraa.d.ts",
+    "ambientDependencies": {
+        "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#81506d0602d4f15b153c6a8a7657a45e42c8346f"
+    }
+}
