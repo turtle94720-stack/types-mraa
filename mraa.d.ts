@@ -8,3 +8,4 @@ export * from './src/aio';
 export * from './src/gpio';
 export * from './src/i2c';
 export * from './src/pwm';
+export * from './src/spi';
