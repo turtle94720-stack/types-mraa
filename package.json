@@ -1,0 +1,30 @@
+{
+  "name": "@types/mraa",
+  "version": "1.3.0",
+  "description": "Type definitions for MRAA v1.3.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowcrab/types-mraa.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "types",
+    "mraa"
+  ],
+  "author": "Snow Crab Software, LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowcrab/types-mraa/issues"
+  },
+  "homepage": "https://github.com/snowcrab/types-mraa#readme",
+  "dependencies": {
+    "@types/node": "^6.0.38"
+  }
+}
